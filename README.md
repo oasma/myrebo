@@ -1,9 +1,16 @@
 # osama almasri.
 I just love *bold text*.
-...
-<html>
-<h1></h1>
-<p>my nmae ia osama </p>
-</html>
 
-...
+
+This will display the HTML code with proper syntax highlighting:
+
+```html
+<html>
+  <head>
+    <title>My HTML Page</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+  </body>
+</html>
+```
